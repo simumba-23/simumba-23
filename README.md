@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Simumba 👋</h1>
-<h3 align="center">Full-Stack Web & Mobile Developer · Morogoro, Tanzania 🇹🇿</h3>
+<h3 align="center">Full-Stack Web & Mobile Developer · Dar es Salaam, Tanzania 🇹🇿</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emansi-simumba-3189a628a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -41,6 +41,7 @@ I'm a self-taught full-stack developer who builds practical software for real co
 **Tools & Deployment**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Contabo VPS](https://img.shields.io/badge/Contabo_VPS-1F2C5C?style=flat-square&logo=linux&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
