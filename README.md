@@ -62,11 +62,11 @@ I'm a self-taught full-stack developer who builds practical software for real co
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://YOUR-APP.vercel.app/api?username=sumumba-23&show_icons=true&count_private=true" height="180" />
-  <img src="https://YOUR-APP.vercel.app/api/top-langs/?username=sumumba-23&layout=compact" height="180" />
-</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=simumba-23&show_icons=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simumba-23&layout=compact" height="180" />
+</p>
 ---
 
 ### 💡 Outside the Code
